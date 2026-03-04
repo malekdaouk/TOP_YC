@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+Observations/
+debug_output.pptx
+
+MasterSpreadSheet_FILLED.xlsx
+MasterSpreadSheet_FILLED2.xlsx
+
+test_*.py
